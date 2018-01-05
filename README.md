@@ -1,2 +1,2 @@
 "lpthw"
-treat simple way
+treat simple way.its about fun to learn programming
